@@ -110,7 +110,7 @@ paper: https://hichristensen.com//publication/icra-2025-cbf/_ICRA_25__Offline_Ba
 
 **Neural Encodings for Energy-Efficient Motion Planning**
 
-### Other Unfiled papers
+## Other Unfiled papers
 
 **SAS-Prompt: Large Language Models as Numerical Optimizers for Robot Self-Improvement**
 
